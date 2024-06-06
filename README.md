@@ -1,16 +1,9 @@
-# Template Repository
+# Hey there! 👋
 
-This repository is a template for creating new repositories. It comes
-preconfigured with a default developer experience, including pre-commit hooks
-and GitHub Actions.
+This repository provides the community health files for the **[@Otterbuild]**
+organization on GitHub. These will be used by any repository in the organization
+that does not provide their own. You can learn more about community health files
+in the [GitHub documentation].
 
-## Usage
-
-When creating a new repository in [otterbuild/den], set `from_template` to
-`true` to create the repository from this template.
-
-```terraform
-from_template = true
-```
-
-[otterbuild/den]: https://github.com/otterbuild/den
+[@otterbuild]: https://github.com/otterbuild
+[github documentation]: https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization
